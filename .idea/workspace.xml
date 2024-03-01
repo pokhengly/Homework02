@@ -1,15 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb01857-034e-429d-9b00-8eda47f647c7" name="Changes" comment="" />
+    <list default="true" id="adb01857-034e-429d-9b00-8eda47f647c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/javadoc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/BorderStyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/CellStyle.AbbreviationStyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/CellStyle.HorizontalAlign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/CellStyle.NullStyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/CellStyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/ShownBorders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/StreamingTable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/Table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/class-use/BorderStyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/class-use/CellStyle.AbbreviationStyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/class-use/CellStyle.HorizontalAlign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/class-use/CellStyle.NullStyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/class-use/CellStyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/class-use/ShownBorders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/class-use/StreamingTable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/class-use/Table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/org/nocrala/tools/texttablefmt/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/javadocs/resources/inherit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/screenshots/Screenshots.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/screenshots/advanced.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/screenshots/basic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/screenshots/fancy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/docs/screenshots/unicode.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/lib/text-table-formatter-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/some-examples/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/some-examples/examples/Advanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/some-examples/examples/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/some-examples/examples/ScreenShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-table-formatter-1.1.2/some-examples/examples/StreamingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeeSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HourlySalaryEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HourlySalaryEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SalariesEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SalariesEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StaffMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaffMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Volunteer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Volunteer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2d31yDQ1rVyOCAbSG40q21R66Gu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -19,14 +83,44 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/HRD-school/Java/Java connection/Homework02/text-table-formatter-1.1.2/lib/text-table-formatter-1.1.2.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/HRD-school/Java/Java connection/Homework02/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HRD-school\Java\Java connection\Homework02" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Homework02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,22 +129,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709222202063</updated>
-      <workItem from="1709222203179" duration="1000" />
+      <workItem from="1709222203179" duration="6518000" />
+      <workItem from="1709279320281" duration="8501000" />
+      <workItem from="1709291332392" duration="313000" />
+      <workItem from="1709292955087" duration="6119000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
