@@ -5,6 +5,5 @@ public class Main {
         EmployeeSystem employeeSystem = new EmployeeSystem();
         employeeSystem.displayInformation();
 
-
     }
 }

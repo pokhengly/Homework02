@@ -9,10 +9,6 @@ public class Volunteer extends StaffMember {
         this.salary = salary;
     }
 
-    public Volunteer(double salary) {
-        this.salary = salary;
-    }
-
     public Volunteer() {
 
     }
@@ -23,13 +19,6 @@ public class Volunteer extends StaffMember {
 
     public void setSalary(double salary) {
         this.salary = salary;
-    }
-
-    @Override
-    public String toString() {
-        return "Volunteer{" +
-                "salary=" + salary +
-                '}';
     }
 
     @Override
